@@ -1,0 +1,9 @@
+1. Create a NEW public/private GitHub repository named TechnicalAnalysis.
+2. Upload Assignment2 folder to the repository, including portfolio.txt and technical_analysis.R.
+3. Install R and RStudio locally (not merely Posit Cloud) and capture real installation screenshots.
+4. In RStudio set working directory to the Assignment2 folder.
+5. Run technical_analysis.R. Capture package install, console output and plot screenshots.
+6. Insert screenshots into Assignment2_Report.docx; update actual observations and notes.
+7. Upload the completed report into TechnicalAnalysis/Assignment2 on GitHub.
+8. Export final completed report to PDF named Abdelmoaein_Rania_CA_BDA400_A02.pdf.
+9. Submit PDF to LMS; keep GitHub repo accessible and link in report.
